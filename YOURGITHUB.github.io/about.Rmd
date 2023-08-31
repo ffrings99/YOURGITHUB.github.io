@@ -1,0 +1,12 @@
+---
+title: "About me"
+---
+
+## Faith Frings
+
+Hi! My name is Faith Frings and I am a PhD student studying quantitative biology education in the Aikens' Lab at UNH. 
+
+```{r}
+rmarkdown::render_site(encoding = "UTF-8")
+```
+

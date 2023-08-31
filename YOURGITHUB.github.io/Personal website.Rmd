@@ -1,0 +1,13 @@
+---
+title: "Personal_Website"
+output: html_document
+date: "2023-08-29"
+---
+
+```{r}
+library(usethis)
+use_git_config(user.name = "Faith Frings", 
+               user.email = "faithfrings@gmail.com")
+```
+
+
